@@ -1,0 +1,21 @@
+{
+  "name": "buildit",
+  "version": "1.0.0",
+  "description": "a web-app build a scenary on html5 canvas",
+  "main": "js/main.js",
+  "keywords": [
+    "canvas",
+    "animation"
+  ],
+  "author": "Icy",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "strip-loader": "^0.1.2",
+    "webpack": "^1.13.2"
+  }
+}

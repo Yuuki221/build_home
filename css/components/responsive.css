@@ -1,0 +1,5 @@
+@media screen and (max-width: 890px){
+	.table-cell-wrap, .table-cell-wrap:hover { 
+		width: 48%; 
+	}
+}
